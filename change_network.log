@@ -1,12 +1,9 @@
-[ 2017-10-26 13:40:32 ] success pWiVJiZTB4nk0QGBHNruNWCjQS/5rHT/W3hHDDuQkowfHfYF0fBou83cz4LcXUrt
-[ 2017-10-26 21:45:41 ] success zY7ejTiEsy2s0ycpGAoOtWc0aLiIy4/oHI9EAyNV8S/qwZFUy8BHYmatdWzZ1UK0
-[ 2017-10-26 21:46:25 ] success 31zl8KjRIf27ceCB02EfqMeH8PhDKSqVCpCLcfn1FmHqBEnsHpiLitQ1opF73Pfw
-[ 2017-10-26 21:46:36 ] success PFGAQA5PLEjGwHY2AVRFMmVPKp2vn4XNOnX4WfrrTZmlZDi4ar8wqdxkIgGi22Db
-[ 2017-10-26 21:51:23 ] success ivprD65HRodmDFebf8elUlVTrCylHmGV/79a1PKq11sr3Qq2tlJyt/ibVkiirDGX
-[ 2017-10-26 21:51:52 ] success VXvINtsOZ0KXcXbRvQLmuzqLNLx81cbb459cj9k9LmL/n0YoWbo2jieHEl7AAKih
-[ 2017-10-26 21:52:38 ] success ms6YqvEanyU7sBiVBrGyggtU2bDdx71MC5H1qqIVs/eRQegkGv560U6HNz9xhkjz
-[ 2017-10-26 21:53:19 ] success c4E/8H36EGxLvfqk86QpZ0ScbznRUK+AZ2j/8ZzYj9CB3ayY7cjhGxV3WsnHab8W
-[ 2017-10-26 21:55:14 ] success QAJazGrMl8NzyFbp9EvMJiN6ZWNbTObUJFPySXJtSOn+AZGLTxcuTQ+pT8YyMe/F
-[ 2017-10-26 21:56:38 ] success oywJaAhpmo1v1UEcvBj7lJ+S2syzRefjllAvLNMdDLAct27Tauhy7IkiK5zTmueI
-[ 2017-10-26 21:56:40 ] 没有找到带宽信息 (qos)
-[ 2017-10-26 21:56:57 ] success /DDK1crK4CI/LZKZNwRqNmRMpFmRmFGK/e4x8l+jawH0uzLkBdYw4FqQ/f5fkvW+
+[ 2017-10-30 16:20:26 ]: 获取token成功: success AkqDFZYi1rfL/5+LN1Rr1/R1BFDD6nnc6PM/HLo/9UoLNNAC2+jwEux/KGWL6i8k
+[ 2017-10-30 16:20:31 ]: 更新带宽成功 更新后的带宽是 [15] {"status":"success","message":"operation success","code":200,"task_id":"752069"}
+[ 2017-10-30 16:21:32 ]: 获取token成功: success 8t5QF4MrdENqGqYHHWJ0F2CrvgHaeT3gCtrj+508nlmQupXHSN1BZeUEYDa6EkWn
+[ 2017-10-30 16:21:37 ]: 更新带宽成功 更新后的带宽是 [5] {"status":"success","message":"operation success","code":200,"task_id":"752079"}
+[ 2017-10-30 16:28:17 ]: 获取token成功: success X5FW9FdTWH1NYEcDAR11cxoKJqpRYSC049tu5tbHLEmqCnRBXzjJmfY3EiwIGHeg
+[ 2017-10-30 16:28:22 ]: 更新带宽成功 更新后的带宽是 [5] 原来的带宽是 [5]{"status":"success","message":"operation success","code":200,"task_id":""}
+[ 2017-10-30 16:50:10 ]: 给定的带宽不是5的倍数，因为首都在线的带宽是以 5 为步长增加和减少的
+[ 2017-10-30 16:50:19 ]: 获取token成功: success gse/F/gMIaK7pTajpiUyFqzwjmCAZ6YNGPPQ2F4hSuXoWOlK8WrkufEw2ADOdc9u
+[ 2017-10-30 16:50:24 ]: 更新带宽成功 更新后的带宽是[10] 原来的带宽是[5] {"status":"success","message":"operation success","code":200,"task_id":"752179"}

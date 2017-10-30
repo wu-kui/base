@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import urllib2, sys, time, json, demjson
+import traceback
 
+a=8
+b=2
 
-def now():
-    # 时间格式
-    ISOTIMEFORMAT = '%Y-%m-%d %X'
-    return time.strftime( ISOTIMEFORMAT, time.localtime( time.time() ))
-
-print(now())
+if a % b != 0:
+    print('没有整除')
